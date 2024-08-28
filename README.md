@@ -37,3 +37,7 @@
 8. Have API generated fields.
 9. Have submission logic.
 10. Have initial form values population with API calls.
+
+## References
+
+1. JSON Forms: https://jsonforms.io/
